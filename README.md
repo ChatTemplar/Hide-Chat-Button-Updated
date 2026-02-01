@@ -4,3 +4,5 @@
 The Original was made by Phemoir https://www.wowinterface.com/downloads/info17691-HideChatButton.html
 
 But it wasnt Updated and wont work with 12.0.0
+
+World of Warcraft\_retail_\Interface\AddOns\HideChatButton
